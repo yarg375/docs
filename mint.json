@@ -33,7 +33,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "development"
+        "delete_account"
       ]
     }
   ],
