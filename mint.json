@@ -21,6 +21,16 @@
       "url": "mailto:yeikcar@gmail.com"
     }
   ],
+  "topbarCtaButton": {
+    "name": "Feature Request ",
+    "url": "https://yeikcar.featurebase.app/"
+  },
+  "tabs": [
+    {
+      "name": "Documentación 🇪🇸",
+      "url": "es"
+    }
+  ],
   "anchors": [
     {
       "name": "Web",
@@ -34,6 +44,13 @@
       "pages": [
         "introduction",
         "delete_account"
+      ]
+    },
+    {
+      "group": "Inicio",
+      "pages": [
+        "es/introduction",
+        "es/delete_account"
       ]
     }
   ],
