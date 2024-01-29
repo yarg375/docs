@@ -47,10 +47,25 @@
       ]
     },
     {
+      "group": "YeikCar Classic",
+      "pages": [
+        "general"
+      ]
+    },
+
+
+
+    {
       "group": "Inicio",
       "pages": [
         "es/introduction",
         "es/delete_account"
+      ]
+    },
+    {
+      "group": "YeikCar Classic",
+      "pages": [
+        "es/general"
       ]
     }
   ],
