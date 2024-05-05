@@ -43,6 +43,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
+        "manage_data",
         "delete_account"
       ]
     },
@@ -59,13 +60,11 @@
         "privacy_policy"
       ]
     },
-
-
-
     {
       "group": "Inicio",
       "pages": [
         "es/introduction",
+        "es/manage_data",
         "es/delete_account"
       ]
     },
